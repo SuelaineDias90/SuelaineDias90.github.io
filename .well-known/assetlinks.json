@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.suelainedias90.cidadeia",
+        "sha256_cert_fingerprints": ["9B:9E:11:0F:77:19:D2:34:98:2B:FB:F7:EE:12:35:78:59:93:F8:14:03:49:12:E7:B7:4A:9D:66:F5:B7:82:B1"]
+      }
+    }]
